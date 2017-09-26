@@ -1,0 +1,5 @@
+*{margin: 0;padding: 0;}
+.container{width: 1204px;margin: 0 auto;position: relative;}
+.box{display: inline;float: left;padding: 5px;}
+.box_img{border: 1px solid #CCCCCC;padding: 5px;border-radius: 5px;box-shadow: 0 0 5px #CCCCCC;box-sizing: border-box;}
+.box_img img{width: 150px;height: auto;}
